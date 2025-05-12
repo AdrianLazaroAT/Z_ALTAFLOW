@@ -6,3 +6,4 @@
 REPORT ZPRUEBA_GIT1.
 
 WRITE: / 'Ola'.
+WRITE: / 'Nuevo'.
